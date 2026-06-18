@@ -46,5 +46,3 @@ Every competition folder includes:
 - Key takeaways
 
 ---
-
-*"The best way to learn machine learning is by building models and analyzing failures."*
